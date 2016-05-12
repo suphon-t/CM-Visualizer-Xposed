@@ -99,3 +99,11 @@ $RECYCLE.BIN/
 /build
 /captures
 
+.idea/.name
+.idea/compiler.xml
+.idea/encodings.xml
+.idea/copyright/profiles_settings.xml
+.idea/gradle.xml
+.idea/misc.xml
+.idea/modules.xml
+.idea/runConfigurations.xml
